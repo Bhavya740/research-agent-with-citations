@@ -1,0 +1,8 @@
+Question:
+What is RAG?
+
+Answer:
+Retrieval-Augmented Generation (RAG) retrieves relevant documents before generating an answer.
+It reduces hallucinations and provides answers with citations.
+
+Source: Source 3
