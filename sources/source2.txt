@@ -1,0 +1,2 @@
+Generative AI can create text, images, code, music and videos.
+Large Language Models (LLMs) include GPT, Llama, Claude and Gemini.
