@@ -1,0 +1,2 @@
+Retrieval-Augmented Generation (RAG) retrieves relevant documents before generating an answer.
+RAG reduces hallucinations and provides answers with citations.
