@@ -92,6 +92,14 @@ Source: Source 3
 - Designed to be simple, easy to understand, and easy to run.
 
 ---
+## Retrieval Approach
+
+The agent stores three source documents and provides them to the LLM as context for every question.
+
+The LLM is instructed to:
+- Answer only from the provided sources.
+- State when the sources do not contain the answer.
+- Include the source citation in every response.
 
 ## Future Improvements
 
